@@ -10,4 +10,5 @@
     <string name="blood_type">Blood type :</string>
     <string name="allergy">Allergy :</string>
     <string name="people_to_contact">People to contact</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

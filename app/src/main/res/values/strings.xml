@@ -10,5 +10,9 @@
     <string name="blood_type">Blood type:</string>
     <string name="allergy">Allergy:</string>
     <string name="people_to_contact">People to contact</string>
+<<<<<<< HEAD
     <string name="send_reminder">Send reminder</string>
+=======
+    <string name="title_activity_maps">Map</string>
+>>>>>>> 7bc2226dd6ff9459b648407625677f0dce98b6bc
 </resources>

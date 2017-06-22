@@ -3,30 +3,183 @@
 
     <item
         is-multidex="true"
-        jar="/Users/anthony/Documents/EPF/4A/Challenge Innovation/Alzist-Me/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Users/anthony/Documents/EPF/4A/Challenge Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_791c96935f77311ed2cb84225dc6fdc9fcf2c6f4/classes.dex" />
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_75e6c03472a0a2491d9d3a8efa130e7dc2a756a9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthony/.android/build-cache/9c6a8cdb001e4f343f2507d3e8f3e364670733da/output/jars/classes.jar"
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
-        <dex dex="/Users/anthony/Documents/EPF/4A/Challenge Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df6aee49af871cea6c8cfe41b54946e7793bba3a/classes.dex" />
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_a7c6dded7aaebe6c3efdb775a9c8b50ade02743a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthony/Documents/EPF/4A/Challenge Innovation/Alzist-Me/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/hugo/.android/build-cache/5269266ebd06d518392565b3b76656a4ba7d6c3b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="554f9e1e570329319f37b7dc44a9daf0e8383fea">
-        <dex dex="/Users/anthony/Documents/EPF/4A/Challenge Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2be851a0575211915d7cfcaf7a283a5d5e463407/classes.dex" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba98469ae285491ca681ef1f4d6e51ccb05d0e53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/3a822b8e0bb63807bc17d3f65a5fa6555be21ffa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0465d11dddfb1bd5b3758b4e1dbd46944419c89b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/b0683885936a12c048d5c0b6868ac6e89c141103/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e3835e046c6cd16bfb70c69a493259aff277f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb0c5838df5c527a83c340ba6e3dc28704be4ef9">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2a9782a04a133813f9ea2c3f32d48fff374641e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_840fab586e7b8c7b99678426e3e43a74a3712dc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/0695909c4800482036814cdda1295cb93d3d040f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_445d49bc59cb00dbd3a377dc83018d1173a037e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/0e03d04b755ef44ab67764e47bae8392eb856c38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_112e8486323d52c86c1fa69d3adcea837c141fb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/724cd2f69cda8878ef6f6d0df2bc1a3680d41375/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b703cd889dc1674b837667a99e6ea50e50fd6ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/e514a57b60253379dc39ea23dda7a3c791b68a00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_506a4ba075ac2ede40644dfdc722d8ad7753bf0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/69e2fa083108c4965efde1f9a6c0a8174fc6cddf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_768539fdb4a5d5ea3df50ed0bb649ed6f750962e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/4046d85efdb592eb0fe69e31fc437ce10537821d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ceab7f846e9f8bbb587156197a6137c21fce02e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/38f9e6b4a1433652e3568bf8baf464fd13ace1a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cac2217879e0cf1881fd24bf2271c6900747df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/d7ee18df8f0f6d1d63d1b99b6028b1df69a30ae3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a7502e5bfbde44024344e4fdf554ce312a730e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/8fa398dd51a4bbe326d11ce7d9f92edbbe22f322/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_495b48187cf57ac079699d1dc2a8fdce53e36223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0f2aad3d38a00d10adb04bb57a106546a9306d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_d2ed8766e12c695a3be05c3a975049c703e9045d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/5b6c6b15b27ca729e72fad2c3635032ac842b6a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfcc517677d710a0f3d7a9a8a11c79f342094ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hugo/.android/build-cache/ccc39f9effe4cd92bfcb0ee2aa7525dfde7a2453/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hugo/Desktop/Cours_EPF/4A/Challenge_Innovation/Alzist-Me/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96a1245be51292b7c32db617fb9eded2169fac2c/classes.dex" />
     </item>
 
 </items>

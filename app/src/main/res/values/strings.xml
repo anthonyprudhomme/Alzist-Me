@@ -1,13 +1,14 @@
 <resources>
     <string name="app_name">Alzist\'Me</string>
-    <string name="name">Name :</string>
+    <string name="name">Name:</string>
     <string name="no_value">no value</string>
-    <string name="birthdate">Birth date : </string>
-    <string name="address">Address :</string>
-    <string name="alzheimer_stage">Alzheimer stage :</string>
-    <string name="stage_description">Stage description :</string>
+    <string name="birthdate">Birth date:</string>
+    <string name="address">Address:</string>
+    <string name="alzheimer_stage">Alzheimer stage:</string>
+    <string name="stage_description">Stage description:</string>
     <string name="usericon">User icon</string>
-    <string name="blood_type">Blood type :</string>
-    <string name="allergy">Allergy :</string>
+    <string name="blood_type">Blood type:</string>
+    <string name="allergy">Allergy:</string>
     <string name="people_to_contact">People to contact</string>
+    <string name="send_reminder">Send reminder</string>
 </resources>

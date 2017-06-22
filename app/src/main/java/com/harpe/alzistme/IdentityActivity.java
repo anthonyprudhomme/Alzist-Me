@@ -1,15 +1,24 @@
 package com.harpe.alzistme;
 
 import android.Manifest;
+import android.app.AlarmManager;
+import android.app.PendingIntent;
+import android.content.Intent;
 import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import java.util.Calendar;
 
 public class IdentityActivity extends AppCompatActivity {
 
     private static final int REQUEST_PHONE = 1;
+    private static final String TAG = "Ici (IdentityActivity)";
+    private static final int HELLO_ID = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,10 +45,23 @@ public class IdentityActivity extends AppCompatActivity {
         TextView allergy = (TextView) findViewById(R.id.allergy);
         allergy.setText("None");
 
-
-
         ListView peopleListView = (ListView) findViewById(R.id.peopleListView);
         PeopleAdapter peopleAdapter = new PeopleAdapter(this,0,People.peoples);
         peopleListView.setAdapter(peopleAdapter);
+    }
+
+    public void onClickSendReminder(View view) {
+        // Test for the alarm
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(this, 0,
+                new Intent(this, Alarm.class), 0);
+        AlarmManager alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
+
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTimeInMillis(System.currentTimeMillis());
+        /*calendar.add(Calendar.SECOND, 5);*/
+
+        long updateFreq = 0;//24*60*60*1000;
+        alarmManager.setRepeating(AlarmManager.RTC, calendar.getTimeInMillis(), updateFreq,
+                pendingIntent);
     }
 }

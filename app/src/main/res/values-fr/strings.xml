@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alzist\'Me</string>
+    <string name="name">Nom:</string>
+    <string name="no_value">pas de valeur</string>
+</resources>
